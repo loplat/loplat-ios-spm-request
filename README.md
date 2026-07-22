@@ -1,14 +1,17 @@
-
 <img src="https://storage.googleapis.com/loplat-storage/public/ios_readme/loplat_logo_primary.png" width="30%" height="30%"/>
 
-<img src="https://img.shields.io/badge/pod-inaccessible-lightgrey"/> <img src="https://img.shields.io/badge/SPM-accessible-brightgreen"/>
+<img src="https://img.shields.io/badge/SPM-accessible-brightgreen"/>
 
 
-[로플랫](https://developers.loplat.com/docs/ios/)은 국내 최대 오프라인 위치기술 전문 기업입니다. 로플랫 SDK로 위치기반서비스를 제공하세요.
+[로플랫](https://www.loplat.com/)은 국내 최대 오프라인 위치기술 전문 기업입니다. 로플랫 SDK로 위치기반서비스를 제공하세요.
 
 실내 장소를 인식하고, 장소에 대한 이벤트를 처리하고, 사용자가 한 장소에 머물러 있는지, 이동 중인지 알 수 있습니다.
 
 로플랫 SDK를 통해 방문통계, 매장에 도착했을 시 혜택 알림 등 다양한 곳에 활용할 수 있습니다.
+
+## Notice
+* 이 프로젝트는 loplat SDK에 즉시 요청 기능이 추가되어있습니다.
+  * 즉시 요청 기능은 로플랫과 협의하에 사용할 수 있습니다
 
 ## Requirement
 * loplat SDK를 사용하기 위해서는 로플랫에서 제공하는 ID와 Secret 키를 발급받아야 합니다. 발급을 원하시는 기업, 개발자는 아래의 내용을 기재하여 business@loplat.com 으로 보내주시기 바랍니다.
@@ -18,16 +21,17 @@ a.이름
 b.회사
 c.사용 목적
 ```
-
+### 개발 환경 요구사항
 * deployment target 14.0 이상
 * Xcode 16 이상
 
 ## Documentation
 
-* iOS 적용 가이드는 [여기](https://developers.loplat.com/docs/ios/)서 확인 할 수 있습니다.
+* SDK를 탑재하기 위한 가이드는 [SDK 탑재 가이드](https://developers.loplat.com/docs/ios/)에서 확인 할 수 있습니다.
 
-* 릴리즈 노트는 [여기](https://developers.loplat.com/docs/ios/ios-history)서 확인 할 수 있습니다.
+* iOS SDK를 테스트하기 위한 가이드는 [SDK 테스트 가이드](https://developers.loplat.com/docs/ios/ios-test-guide)에서 확인 할 수 있습니다.
 
+* 버전별 변경사항은 [릴리즈 노트](https://developers.loplat.com/docs/ios/ios-history)에서 확인 할 수 있습니다.
 
 ## Support
 
