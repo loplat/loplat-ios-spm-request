@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/MiniPlengi-Swift.h</key>
 		<data>
-		uf4b9s/jifiYr57x2X/vmtUVBRE=
+		hmhsQUK5D0jcndhkUa1guKBzvhk=
 		</data>
 		<key>Headers/MiniPlengi.h</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cxAsDbKhm1RtU6kgfn7FDE4EJ7c=
+		lP5eS4Ih1ijYmRlGOTU0WL8pBaQ=
 		</data>
 		<key>Modules/MiniPlengi.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		TMOZv3WtbS3CJ+wHpGkdGQ0f3EQ=
+		uBlKZo/ETQwEzDE22jKI4M4jTY8=
 		</data>
 		<key>Modules/MiniPlengi.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ZFJEMMwG/Pd1LtDLOYYqptg16OM=
+		B3eUpChIwIjLBvEsO+sTA6mWCpo=
 		</data>
 		<key>Modules/MiniPlengi.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		G1sQ71TDFzb4PFnaDkiLiu8cqiA=
+		PXAz2woNwiJE3XsfK5BpBrJqvBo=
 		</data>
 		<key>Modules/MiniPlengi.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ZFJEMMwG/Pd1LtDLOYYqptg16OM=
+		B3eUpChIwIjLBvEsO+sTA6mWCpo=
 		</data>
 		<key>Modules/MiniPlengi.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		LMamqVXV439qBUvtcsINQitZslo=
+		fNyzs7Hi9g91majNsvxzen6DpVo=
 		</data>
 		<key>Modules/MiniPlengi.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		TMOZv3WtbS3CJ+wHpGkdGQ0f3EQ=
+		uBlKZo/ETQwEzDE22jKI4M4jTY8=
 		</data>
 		<key>Modules/MiniPlengi.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		/6+dBMKicjdKGWtymD0Q2YN+HfE=
+		4EW76elwRBy4TQnZRy7OmiFgrss=
 		</data>
 		<key>Modules/MiniPlengi.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		GfEeltaJwTgNk8g+h/a/4zv0pPo=
+		hrsEVyJjhuFN/M2VMQY0qGtIIFo=
 		</data>
 		<key>Modules/MiniPlengi.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		/6+dBMKicjdKGWtymD0Q2YN+HfE=
+		4EW76elwRBy4TQnZRy7OmiFgrss=
 		</data>
 		<key>Modules/MiniPlengi.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ONTcxzL595igcvYuuzOSy1CVl9U=
+		D61KvRCl7OiiGybIXTUILci0G5Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>loplatActivityRecognition.mlmodelc/coremldata.bin</key>
 		<data>
-		THIaKLKVFickZi/uOKonWh3YNhc=
+		VwNiS71acEMY+/217UyeUKIQKSM=
 		</data>
 		<key>loplatActivityRecognition.mlmodelc/metadata.json</key>
 		<data>
@@ -96,6 +96,70 @@
 		<data>
 		frHCx4fPpCA7Xz7whP5tLBNbbs0=
 		</data>
+		<key>loplat_ar_model 4.mlmodelc/analytics/coremldata.bin</key>
+		<data>
+		yfj+7+OfjTwPNelmmfW/Xs9pKao=
+		</data>
+		<key>loplat_ar_model 4.mlmodelc/coremldata.bin</key>
+		<data>
+		q8671ycCd1MZL4Mr1zDLrxNH11A=
+		</data>
+		<key>loplat_ar_model 4.mlmodelc/metadata.json</key>
+		<data>
+		CHbVxZgW0FD1FtPUb6bAY0oOMw0=
+		</data>
+		<key>loplat_ar_model 4.mlmodelc/model.espresso.net</key>
+		<data>
+		fyXrOkpdcU1IZUniYx1G+hn8EBc=
+		</data>
+		<key>loplat_ar_model 4.mlmodelc/model.espresso.shape</key>
+		<data>
+		rburTKWKGnCgMr50R98evM6n3jQ=
+		</data>
+		<key>loplat_ar_model 4.mlmodelc/model.espresso.weights</key>
+		<data>
+		nXEnbs56Tta34Ui1SGnVEqtICdo=
+		</data>
+		<key>loplat_ar_model 4.mlmodelc/model/coremldata.bin</key>
+		<data>
+		yNfQ7w7t+oLS6hqlkoRbmm1LArc=
+		</data>
+		<key>loplat_ar_model 4.mlmodelc/neural_network_optionals/coremldata.bin</key>
+		<data>
+		frHCx4fPpCA7Xz7whP5tLBNbbs0=
+		</data>
+		<key>loplat_ar_model.mlmodelc/analytics/coremldata.bin</key>
+		<data>
+		c0cimcidIDMlLcnjaHlG+EDsBM4=
+		</data>
+		<key>loplat_ar_model.mlmodelc/coremldata.bin</key>
+		<data>
+		bAxsIiXTD4ReePdoA6CopV6843o=
+		</data>
+		<key>loplat_ar_model.mlmodelc/metadata.json</key>
+		<data>
+		S5es9LN+gO94mPmfz/0/Y7s1X9w=
+		</data>
+		<key>loplat_ar_model.mlmodelc/model.espresso.net</key>
+		<data>
+		fyXrOkpdcU1IZUniYx1G+hn8EBc=
+		</data>
+		<key>loplat_ar_model.mlmodelc/model.espresso.shape</key>
+		<data>
+		rburTKWKGnCgMr50R98evM6n3jQ=
+		</data>
+		<key>loplat_ar_model.mlmodelc/model.espresso.weights</key>
+		<data>
+		nXEnbs56Tta34Ui1SGnVEqtICdo=
+		</data>
+		<key>loplat_ar_model.mlmodelc/model/coremldata.bin</key>
+		<data>
+		yNfQ7w7t+oLS6hqlkoRbmm1LArc=
+		</data>
+		<key>loplat_ar_model.mlmodelc/neural_network_optionals/coremldata.bin</key>
+		<data>
+		frHCx4fPpCA7Xz7whP5tLBNbbs0=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -103,7 +167,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FFTiUGWYIjKbvTOtI/cyOJWCeg7gcye1FMPw6uIETMY=
+			lXQjfjJzN0lugENnLBI3YbRVga9geNjP6Q3xniyiJkg=
 			</data>
 		</dict>
 		<key>Headers/MiniPlengi.h</key>
@@ -117,70 +181,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W0Qnz1FiEqu6PukQn6WPP6r1fQ1eeaSAjTA8GZedX70=
+			DD7xTlPoJUkXHyi6GVfzVWoWKMuE7b1Am7acRUKkE80=
 			</data>
 		</dict>
 		<key>Modules/MiniPlengi.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6M/JTuUPqR5BUGfOFXoaqjIAPeO+Smi2HLRSjPIey3U=
+			4wQPhi0MRWKPD4rb7hiNHwcNkx1DBJdCqkAV1gUu3d8=
 			</data>
 		</dict>
 		<key>Modules/MiniPlengi.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gE6mF/awuJBWPp2Eoy2CDrOhThvBXBes7IFaOWiDjyQ=
+			gGT+RcvkqoS5caWSFHgmiKdDb8fcaynXu0ZkhbPkQ5I=
 			</data>
 		</dict>
 		<key>Modules/MiniPlengi.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6M/JTuUPqR5BUGfOFXoaqjIAPeO+Smi2HLRSjPIey3U=
+			4wQPhi0MRWKPD4rb7hiNHwcNkx1DBJdCqkAV1gUu3d8=
 			</data>
 		</dict>
 		<key>Modules/MiniPlengi.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uFE9CGeINw10PTwCOeuowKr5tBrdUVE6dMA2r80i03s=
+			t6G4CW/3ZuIZZ7dxhqqjroLkGtZU4s7muCSgwX/44NI=
 			</data>
 		</dict>
 		<key>Modules/MiniPlengi.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W0Qnz1FiEqu6PukQn6WPP6r1fQ1eeaSAjTA8GZedX70=
+			DD7xTlPoJUkXHyi6GVfzVWoWKMuE7b1Am7acRUKkE80=
 			</data>
 		</dict>
 		<key>Modules/MiniPlengi.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bI1BXfY5JPgXccvNZoP7vZswcVA/Al84hM4+rI7I/UI=
+			U88aJ+TzsylapH9qRob9iqo6wK6MX+OFHEipp0ZTOSk=
 			</data>
 		</dict>
 		<key>Modules/MiniPlengi.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Q4+rFgdDza5m40zuSoAznqvWG0KzXchLEZZHmetC40=
+			LOabwDga5tqSDNlHT8xzkx5Ew24yJUMS0RviyI1WpBs=
 			</data>
 		</dict>
 		<key>Modules/MiniPlengi.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bI1BXfY5JPgXccvNZoP7vZswcVA/Al84hM4+rI7I/UI=
+			U88aJ+TzsylapH9qRob9iqo6wK6MX+OFHEipp0ZTOSk=
 			</data>
 		</dict>
 		<key>Modules/MiniPlengi.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zdAj4oQsUvQIv0lO4KWsJA4/du3uw13MF1Vy1LVBF3E=
+			OtvkWhPs/L3Y+vLv148c323HyakCPhQ3Y4WQDUMbgww=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -208,7 +272,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bGcaetvksY6Lme/wbRDcFxmBnfoNpE1Jh+F96Crjguc=
+			TeKfyGKiJNF9sMGLsOzgoqF0tQrt6Eu9OFXDRq8KUAU=
 			</data>
 		</dict>
 		<key>loplatActivityRecognition.mlmodelc/metadata.json</key>
@@ -247,6 +311,118 @@
 			</data>
 		</dict>
 		<key>loplatActivityRecognition.mlmodelc/neural_network_optionals/coremldata.bin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yS1zUGLKrIh7+ol0GajT3B133O0dtbM8JqPO3DIUDzM=
+			</data>
+		</dict>
+		<key>loplat_ar_model 4.mlmodelc/analytics/coremldata.bin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9lM07HOpkR5gwzdZthoyBA8Fmv7TVL33NiMdOn8csEI=
+			</data>
+		</dict>
+		<key>loplat_ar_model 4.mlmodelc/coremldata.bin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JYvzHukDLnUuMBsyeXZ0M5MWF7yy4C8kFduqdfqwzaY=
+			</data>
+		</dict>
+		<key>loplat_ar_model 4.mlmodelc/metadata.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QUz1PFMlgxLMzYYiTE6yoMjZXYyvZbxuMN6MsGjxrWc=
+			</data>
+		</dict>
+		<key>loplat_ar_model 4.mlmodelc/model.espresso.net</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			65lzDISCzotWcT35rPKogR85h7lnBn90oGmDLlNNvVE=
+			</data>
+		</dict>
+		<key>loplat_ar_model 4.mlmodelc/model.espresso.shape</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fY58DWWKXsEmO/c19FdfOjyZ1eE1HPOUIw+aOD7tVFE=
+			</data>
+		</dict>
+		<key>loplat_ar_model 4.mlmodelc/model.espresso.weights</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9QL1Nlq8AcI1PKy5EXxtBdrVxITVA944UNpcoiY2Gog=
+			</data>
+		</dict>
+		<key>loplat_ar_model 4.mlmodelc/model/coremldata.bin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9aX9QtFqIDAnmO9u0wmXm0MAPSMg2fDo6pgxqSdZ+0s=
+			</data>
+		</dict>
+		<key>loplat_ar_model 4.mlmodelc/neural_network_optionals/coremldata.bin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yS1zUGLKrIh7+ol0GajT3B133O0dtbM8JqPO3DIUDzM=
+			</data>
+		</dict>
+		<key>loplat_ar_model.mlmodelc/analytics/coremldata.bin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DeRyV8L9lkk4t4s5HcYTCi/zls4P5sep86pgbZLNesw=
+			</data>
+		</dict>
+		<key>loplat_ar_model.mlmodelc/coremldata.bin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fRhgAx7HtVgJHd+Rhonafis1nLefPweIWYzUAzkV9CU=
+			</data>
+		</dict>
+		<key>loplat_ar_model.mlmodelc/metadata.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QJkPRcGRVQgEeUe/FTEPCDp0QG0FftMIk09pq7qS0y4=
+			</data>
+		</dict>
+		<key>loplat_ar_model.mlmodelc/model.espresso.net</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			65lzDISCzotWcT35rPKogR85h7lnBn90oGmDLlNNvVE=
+			</data>
+		</dict>
+		<key>loplat_ar_model.mlmodelc/model.espresso.shape</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fY58DWWKXsEmO/c19FdfOjyZ1eE1HPOUIw+aOD7tVFE=
+			</data>
+		</dict>
+		<key>loplat_ar_model.mlmodelc/model.espresso.weights</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9QL1Nlq8AcI1PKy5EXxtBdrVxITVA944UNpcoiY2Gog=
+			</data>
+		</dict>
+		<key>loplat_ar_model.mlmodelc/model/coremldata.bin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9aX9QtFqIDAnmO9u0wmXm0MAPSMg2fDo6pgxqSdZ+0s=
+			</data>
+		</dict>
+		<key>loplat_ar_model.mlmodelc/neural_network_optionals/coremldata.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
